@@ -7,4 +7,4 @@ by yuqingc
 
 virtualenv -p python3 pachong
 
-还需要装一些依赖库 beautifulsoup4
+还需要装一些依赖库 beautifulsoup4 Scrapy
